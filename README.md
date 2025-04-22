@@ -64,10 +64,16 @@ The trained model will be saved as sign_language_alphaDigi_model.h5.
 ## 3. Real-Time Testing
 
 To test the model in real-time:
-streamlit run appUI.py
+
+```bash
+   streamlit run appUI.py
+```
 
 If it doesn't work use this:
-streamlit run appUI.py --server.port 8888
+
+```bash
+   streamlit run appUI.py --server.port 8888
+```
 
 Run the appUI.py script:
 Use the Streamlit interface to open the camera and start recognizing gestures.
