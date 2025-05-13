@@ -97,3 +97,17 @@ Streamlit
 cvzone
 NumPy
 Matplotlib
+
+## Sample images
+
+<div style="display: flex; align-items: centre;">
+   <img src="sample hand images/0.jpg" alt="img 1" style="width: 30%; height: auto; margin-right: 10px">
+   <img src="sample hand images/1.jpg" alt="img 2" style="width: 30%; height: auto; margin-right: 10px">
+   <img src="sample hand images/2.jpg" alt="img 3" style="width: 30%; height: auto;">
+</div>
+
+<div style="display: flex; align-items: centre;">
+   <img src="sample hand images/a.jpg" alt="img 1" style="width: 30%; height: auto; margin-right: 10px">
+   <img src="sample hand images/b.jpg" alt="img 2" style="width: 30%; height: auto; margin-right: 10px">
+   <img src="sample hand images/c.jpg" alt="img 3" style="width: 30%; height: auto;">
+</div>
