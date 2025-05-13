@@ -108,7 +108,7 @@ Matplotlib
 </div>
 
 <div style="display: flex; align-items: centre;">
-   <h3>Images of number a, b, c</h3>
+   <h3>Images of alphabet a, b, c</h3>
    <img src="sample hand images/a.jpg" alt="img 1" style="width: 30%; height: auto; margin-right: 10px">
    <img src="sample hand images/b.jpg" alt="img 2" style="width: 30%; height: auto; margin-right: 10px">
    <img src="sample hand images/c.jpg" alt="img 3" style="width: 30%; height: auto;">
